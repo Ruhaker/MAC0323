@@ -1,3 +1,3 @@
-# MAC0323 - Lucas Henrique Bahr Yau
+# MAC0323
 
 Projeto da disciplina
